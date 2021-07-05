@@ -13,11 +13,11 @@
 ### Git Status 🐱‍💻
 
  <div>
-  <a href="https://github.com/fercassia">
+  <a href="https://github.com/fercassia" align="center" >
   <img height="148em" src="https://github-readme-stats.vercel.app/api?username=fercassia&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="148em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fercassia&layout=compact&langs_count=16&theme=tokyonight"/>
 </div>
-
+ 
 ### Let's talk? 
  #### My Contacts 📧
  
