@@ -4,9 +4,9 @@
 
 ### About me:
 
-- 🔭 Currently I'm working as Software Tester at <a href="https://stefanini.com/pt-br" target="_blank">Stefanini.</a>
+- 🔭 Currently I'm working as Software Engineer Intern at <a href="https://www.totvs.com/" target="_blank">TOTVS.</a>
 - 🎓 I'm coursing my third Systems Analysis and Development semester on Estácio de Sá, and I'm a nurse gratuated by UNIBH.
-- 🌱 Besides of my academic studies, I'm studying C#, Tests, python.
+- 🌱 Besides of my academic studies, I'm studying C#, Tests and English.
 - 💬 I like to learn new things and to play some videogames in the spare time.
 - 🧠 I always try to programm something new for as long as I can.
 
