@@ -25,7 +25,7 @@
             <a target="_blank" href="https://www.linkedin.com/in/fernanda-cassia/">
             <img align="left" alt="LinkedIN" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
         <a/>
-            <a target="_blank" href="https://api.whatsapp.com/send?phone=5531997098663">
+            <a target="_blank" href="https://api.whatsapp.com/send?phone=5531999291916">
             <img align="left" alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
         <a/>                
             <a target="_blank" href="https://t.me/FerCassia">
