@@ -6,7 +6,7 @@
 
 - 🔭 Currently I'm working as Software Engineer Intern at <a href="https://www.totvs.com/" target="_blank">TOTVS.</a>
 - 🎓 I'm coursing my third Systems Analysis and Development semester on Estácio de Sá, and I'm a nurse gratuated by UNIBH.
-- 🌱 Besides of my academic studies, I'm studying C#, Tests and English.
+- 🌱 Besides of my academic studies, I'm studying C#, Tests, Front-End and English.
 - 💬 I like to learn new things and to play some videogames in the spare time.
 - 🧠 I always try to programm something new for as long as I can.
 
@@ -14,8 +14,8 @@
 
  <div>
   <a href="https://github.com/fercassia" align="center" >
-  <img height="148em" src="https://github-readme-stats.vercel.app/api?username=fercassia&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="148em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fercassia&layout=compact&langs_count=16&theme=tokyonight"/>
+  <img height="145em" src="https://github-readme-stats.vercel.app/api?username=fercassia&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fercassia&layout=compact&langs_count=16&theme=tokyonight"/>
 </div>
  
 ### Let's talk? 
