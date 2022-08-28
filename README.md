@@ -6,7 +6,7 @@
 
 - 🔭 Currently I'm working as Quality Assurance - Entry Level I at <a href="https://forpeople.io/" target="_blank">For People</a>
 - 🎓 I'm coursing my third Systems Analysis and Development semester on Estácio de Sá, and I'm a nurse gratuated by UNIBH.
-- 🌱 Besides of my academic studies, I'm studying C#, Tests and English.
+- 🌱 Besides of my academic studies, I'm studying Tests, React Native and C#.
 - 💬 I like to learn new things and to play some videogames in the spare time.
 - 🧠 I always try to programm something new for as long as I can.
 
