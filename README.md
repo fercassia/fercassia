@@ -4,9 +4,9 @@
 
 ### About me:
 
-- 🔭 Currently I'm working as Quality Assurance - Junior V at <a href="https://forpeople.io/" target="_blank">For People</a>
+- 🔭 Currently I'm working as Quality Assurance - Junior at <a href="https://www.araujo.com.br/" target="_blank">Araujo</a>
 - 🎓 I'm gratuated in Systems Analysis and Development on Estácio de Sá, and I'm a nurse gratuated by UNIBH.
-- 🌱 Besides of my academic studies, I'm studying Manual and Automated Tests.
+- 🌱 Besides of my academic studies, I'm studying Manual and Automated Tests, API Tests, Java.
 - 💬 I like to learn new things, play some videogames and read in the spare time.
 - 🧠 I always try to programm something new for as long as I can.
 
