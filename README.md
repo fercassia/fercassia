@@ -4,7 +4,7 @@
 
 ### About me:
 
-- 🔭 Currently I'm working as Quality Assurance - Junior at <a href="https://www.araujo.com.br/" target="_blank">Araujo</a>
+- 🔭 Currently I'm working as Quality Assurance - Junior at <a href=""target="_blank">.</a>
 - 🎓 I'm QA Analist gratuated by Systems Analysis and Development on Estácio de Sá, and I'm a nurse gratuated by UNIBH.
 - 🌱 Besides of my academic studies, I'm studying Manual and Automated Tests, API Tests, Java.
 - 💬 I like to learn new things, play some videogames and read in the spare time.
