@@ -15,6 +15,7 @@
 ![JAVA](https://img.shields.io/badge/Java-%231e202c?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JS](https://img.shields.io/badge/JavaScript-%231e202c?style=for-the-badge&logo=javascript&logoColor=white)
 ![MYSQL](https://img.shields.io/badge/MySQL-%231e202c?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL SERVER](https://img.shields.io/badge/Microsoft_SQL_Server-%231e202c?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![POSTGRESQL](https://img.shields.io/badge/PostgreSQL-%231e202c?style=for-the-badge&logo=postgresql&logoColor=white)
 ![GIT](https://img.shields.io/badge/GIT-%231e202c?style=for-the-badge&logo=git&logoColor=white)
 ![POSTMAN](https://img.shields.io/badge/Postman-%231e202c?style=for-the-badge&logo=postman&logoColor=white)
