@@ -21,6 +21,9 @@
 ![POSTMAN](https://img.shields.io/badge/Postman-%231e202c?style=for-the-badge&logo=postman&logoColor=white)
 ![INSOMNIA](https://img.shields.io/badge/Insomnia-%231e202c?logo=insomnia&logoColor=white&style=for-the-badge)
 ![SWAGGER](https://img.shields.io/badge/-Swagger-%231e202c?style=for-the-badge&logo=swagger&logoColor=white)
+![SonarQube](https://img.shields.io/badge/SonarQube-%231e202c?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD)
+![GitHub](https://img.shields.io/badge/github-%231e202c.svg?style=for-the-badge&logo=github&logoColor=white)
+![Bitbucket](https://img.shields.io/badge/bitbucket-%231e202c.svg?style=for-the-badge&logo=bitbucket&logoColor=white)
 
 ### Git Status 🐱‍💻
 
