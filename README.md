@@ -5,7 +5,7 @@
 ### About me:
 
 - 🔭 Currently I'm working as Quality Assurance at [Raro labs](https://rarolabs.com.br/)
-- 🎓 I'm QA Analist gratuated by Systems Analysis and Development on Estácio de Sá, and I'm a nurse gratuated by UNIBH.
+- 🎓 I'm QA Analist gratuated by Systems Analysis and Development on Estácio de Sá and At the momento I'm doing posgraduate in Software Engineering at UNOPAR.
 - 🌱 Besides of my academic studies, I'm improving my knowledge in Manual and Automated Tests Front, Mobile and API, API Tests, Java, JavaScript.
 - 💬 I like to learn new things, play some videogames and read in the spare time.
 - 🧠 I always try to programm something new for as long as I can.
