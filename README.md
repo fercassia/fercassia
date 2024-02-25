@@ -5,7 +5,7 @@
 ### About me:
 
 - 🔭 Currently I'm working as Quality Assurance at [Raro labs](https://rarolabs.com.br/)
-- 🎓 I'm QA Analist gratuated by Systems Analysis and Development on Estácio de Sá and At the momento I'm doing posgraduate in Software Engineering at UNOPAR.
+- 🎓 I'm QA Analist gratuated by Systems Analysis and Development on Estácio de Sá and At the momento I'm doing posgraduate in Software Engineering and Software Architecture at UNOPAR.
 - 🌱 Besides of my academic studies, I'm improving my knowledge in Manual and Automated Tests Front, Mobile and API, API Tests, Java, JavaScript.
 - 💬 I like to learn new things, play some videogames and read in the spare time.
 - 🧠 I always try to programm something new for as long as I can.
@@ -14,12 +14,13 @@
 ![C#](https://img.shields.io/badge/C%23-%231e202c?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![JAVA](https://img.shields.io/badge/Java-%231e202c?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JS](https://img.shields.io/badge/JavaScript-%231e202c?style=for-the-badge&logo=javascript&logoColor=white)
+![CYPRESS](https://img.shields.io/badge/cypress-%231e202c?style=for-the-badge&logo=cypress&logoColor=white)
+![WEBDRIVERIO](https://img.shields.io/badge/webdriverio-%231e202c?style=for-the-badge&logo=webdriverio&logoColor=white)
 ![MYSQL](https://img.shields.io/badge/MySQL-%231e202c?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQL SERVER](https://img.shields.io/badge/Microsoft_SQL_Server-%231e202c?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![POSTGRESQL](https://img.shields.io/badge/PostgreSQL-%231e202c?style=for-the-badge&logo=postgresql&logoColor=white)
 ![ANDROID STUDIO](https://img.shields.io/badge/androidstudio-%231e202c.svg?style=for-the-badge&logo=androidstudio&logoColor=white)
-![APPIUM SERVER](https://img.shields.io/badge/appium_server-%231e202c.svg?style=for-the-badge&logo=appiumserver&logoColor=white)
-![APPIUM INSPECTOR](https://img.shields.io/badge/appium_inspector-%231e202c.svg?style=for-the-badge&logo=appiuminspector&logoColor=white)
+![APPIUM](https://img.shields.io/badge/appium-%231e202c.svg?style=for-the-badge&logo=appium&logoColor=white)
 ![GIT](https://img.shields.io/badge/GIT-%231e202c?style=for-the-badge&logo=git&logoColor=white)
 ![POSTMAN](https://img.shields.io/badge/Postman-%231e202c?style=for-the-badge&logo=postman&logoColor=white)
 ![INSOMNIA](https://img.shields.io/badge/Insomnia-%231e202c?logo=insomnia&logoColor=white&style=for-the-badge)
