@@ -11,7 +11,7 @@
 - 🧠 I always try to programm something new for as long as I can.
 
 ### Skills
-![C#](https://img.shields.io/badge/C%23-%231e202c?style=for-the-badge&logo=c-sharp&logoColor=white)
+
 ![JAVA](https://img.shields.io/badge/Java-%231e202c?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JS](https://img.shields.io/badge/JavaScript-%231e202c?style=for-the-badge&logo=javascript&logoColor=white)
 ![CYPRESS](https://img.shields.io/badge/cypress-%231e202c?style=for-the-badge&logo=cypress&logoColor=white)
