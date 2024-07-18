@@ -27,12 +27,6 @@
 ![SonarQube](https://img.shields.io/badge/SonarQube-%231e202c?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD)
 ![GitHub](https://img.shields.io/badge/github-%231e202c.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Bitbucket](https://img.shields.io/badge/bitbucket-%231e202c.svg?style=for-the-badge&logo=bitbucket&logoColor=white)
-
-### Git Status 🐱‍💻
-
-![Fernanda's GitHub stats](https://github-readme-stats.vercel.app/api?username=fercassia&show_icons=true&theme=dark)
-
-![Fernanda's Programming Languages stats](https://github-readme-stats.vercel.app/api/top-langs/?username=fercassia&layout=compact&show_icons=true&theme=dark)
  
 ### Let's talk? 
  #### My Contacts 📧
