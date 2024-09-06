@@ -13,8 +13,10 @@
 ### Skills
 
 ![JS](https://img.shields.io/badge/JavaScript-%231e202c?style=for-the-badge&logo=javascript&logoColor=white)
+![TS](https://img.shields.io/badge/typescript-%231e202c?style=for-the-badge&logo=typescript&logoColor=white)
 ![CYPRESS](https://img.shields.io/badge/cypress-%231e202c?style=for-the-badge&logo=cypress&logoColor=white)
-![WEBDRIVERIO](https://img.shields.io/badge/webdriverio-%231e202c?style=for-the-badge&logo=webdriverio&logoColor=white)
+![PLAYWRIGHT](https://img.shields.io/badge/playwright-%231e202c?style=for-the-badge&logo=playwright&logoColor=white)
+![DOCKER](https://img.shields.io/badge/docker-%231e202c?style=for-the-badge&logo=docker&logoColor=white)
 ![MYSQL](https://img.shields.io/badge/MySQL-%231e202c?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQL SERVER](https://img.shields.io/badge/Microsoft_SQL_Server-%231e202c?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![POSTGRESQL](https://img.shields.io/badge/PostgreSQL-%231e202c?style=for-the-badge&logo=postgresql&logoColor=white)
