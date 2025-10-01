@@ -6,14 +6,14 @@
 
 - 🔭 Currently I'm working as Quality Assurance at [Raro labs](https://rarolabs.com.br/)
 - 🎓 I'm QA Analist gratuated by Systems Analysis and Development on Estácio de Sá
-- 🌱 Besides of my academic studies, I'm improving my knowledge in Manual and Automated Tests Front, API, TestContainer and Back-End Development in Java.
+- 🌱 Besides of my academic studies, I'm improving my knowledge in Manual and Automated Tests Front, API, TestContainer and Back-End Development.
 - 💬 I like to learn new things, play some videogames and read in the spare time.
 - 🧠 I always try to programm something new for as long as I can.
 
 ### Skills
 
 ![JS](https://img.shields.io/badge/JavaScript-%231e202c?style=for-the-badge&logo=javascript&logoColor=white)
-![Java](https://img.shields.io/badge/java-%231e202c.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![TS](https://img.shields.io/badge/TypeScript-%231e202c?style=for-the-badge&logo=typescript&logoColor=white)
 ![CYPRESS](https://img.shields.io/badge/cypress-%231e202c?style=for-the-badge&logo=cypress&logoColor=white)
 ![PLAYWRIGHT](https://img.shields.io/badge/playwright-%231e202c?style=for-the-badge&logo=playwright&logoColor=white)
 ![DOCKER](https://img.shields.io/badge/docker-%231e202c?style=for-the-badge&logo=docker&logoColor=white)
