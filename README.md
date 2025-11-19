@@ -5,7 +5,7 @@
 ### About me:
 
 - 🔭 Currently I'm working as Quality Assurance at [Raro labs](https://rarolabs.com.br/)
-- 🎓 I'm QA Analist gratuated by Systems Analysis and Development on Estácio de Sá
+- 🎓 I'm QA Analist graduating by Software Engineering on Estácio de Sá
 - 🌱 Besides of my academic studies, I'm improving my knowledge in Manual and Automated Tests Front, API, TestContainer and Back-End Development.
 - 💬 I like to learn new things, play some videogames and read in the spare time.
 - 🧠 I always try to programm something new for as long as I can.
@@ -14,6 +14,7 @@
 
 ![JS](https://img.shields.io/badge/JavaScript-%231e202c?style=for-the-badge&logo=javascript&logoColor=white)
 ![TS](https://img.shields.io/badge/TypeScript-%231e202c?style=for-the-badge&logo=typescript&logoColor=white)
+![NESTJS](https://img.shields.io/badge/nestjs-%231e202c?style=for-the-badge&logo=nestjs&logoColor=white)
 ![CYPRESS](https://img.shields.io/badge/cypress-%231e202c?style=for-the-badge&logo=cypress&logoColor=white)
 ![PLAYWRIGHT](https://img.shields.io/badge/playwright-%231e202c?style=for-the-badge&logo=playwright&logoColor=white)
 ![DOCKER](https://img.shields.io/badge/docker-%231e202c?style=for-the-badge&logo=docker&logoColor=white)
@@ -34,15 +35,12 @@
  #### My Contacts 📧
  
  <div>
-        <a target="_blank" href="https://www.linkedin.com/in/fernanda-cassia/">
+        <a target="_blank" href="https://www.linkedin.com/in/fercassia/">
             <img align="left" alt="LinkedIN" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
         <a/>
         <a target="_blank" href="https://api.whatsapp.com/send?phone=5531999291916">
             <img align="left" alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
         <a/>                
-        <a target="_blank" href="https://t.me/FerCassia">
-            <img align="left" alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
-        <a/>
         <a target="_blank" href="mailto:feh.cmrg@outlook.com">
             <img align="left" alt="Email" src= "https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/>
         <a/>
